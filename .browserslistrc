@@ -14,3 +14,15 @@ last 2 Edge major versions
 last 2 Safari major versions
 last 2 iOS major versions
 Firefox ESR
+
+#comandos para iniciar npm i --location=global @angular/cli
+#criar o projeto ng new "nome do projeto"
+#iniciar ng generate componet "nome do componente"
+#instalar router npm i @angular/router
+#inicializar ng serve --open 
+#criar um guadian :  ng g guard "nome do guard"
+#criar um servico :  ng g service "nome do service"
+
+#criar um componente dentro de outro componente :"neste caso criei o detalhes produto dentro do produtos" ng g component #produtos/detalhes-produto --module produtos.module
+
+#gerar modulo leazy loading : ng g module "nome no modulo" --route "nome da rota" --module app.module
