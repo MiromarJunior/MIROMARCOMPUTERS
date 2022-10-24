@@ -1,4 +1,5 @@
 # MIROMARCOMPUTERS
+Projeto online no gitHub[Simulaçao de Ecommerce](https://miromarjunior.github.io/MIROMARCOMPUTERS/produtos)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
