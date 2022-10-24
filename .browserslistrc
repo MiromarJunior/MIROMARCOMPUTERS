@@ -26,3 +26,5 @@ Firefox ESR
 #criar um componente dentro de outro componente :"neste caso criei o detalhes produto dentro do produtos" ng g component #produtos/detalhes-produto --module produtos.module
 
 #gerar modulo leazy loading : ng g module "nome no modulo" --route "nome da rota" --module app.module
+
+#gerar build : ng build --base-href="https://miromarjunior.github.io/miromar-computers-angular/"
